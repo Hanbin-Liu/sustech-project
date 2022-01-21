@@ -1,0 +1,3 @@
+public static class test{
+  private int one = 1;
+}
